@@ -54,12 +54,21 @@
 ---
 
 ## 🖼️ Скриншоты Приложения
-![Главное меню](screenshots/Menu.png)
 
-![Настройки](screenshots/Settings.png)
+<table>
+  <tr>
+    <td align="center">
+      <em>Главное меню</em><br><br>
+      <img src="screenshots/Menu.png" alt="Главное меню AutoKey" width="350">
+    </td>
+    <td align="center">
+      <em>Настройки</em><br><br>
+      <img src="screenshots/Settings.png" alt="Настройки AutoKey" width="350">
+    </td>
+  </tr>
+</table>
 
 ---
-
 ## 🛠️ Установка и Запуск
 
 1.  Перейдите в раздел [**Релизы (Releases)**](https://github.com/RomTeykGG/AutoKeyApp-/releases) этого репозитория.
