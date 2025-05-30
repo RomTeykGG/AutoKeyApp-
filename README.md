@@ -57,18 +57,19 @@
 
 <table>
   <tr>
-    <td align="center">
-      <em>Главное меню</em><br><br>
+    <td align="center" style="vertical-align: top; padding: 10px;">
+      <p style="font-weight: bold; font-size: 140%; margin-bottom: 8px;">Главное меню</p>
       <img src="screenshots/Menu.png" alt="Главное меню AutoKey" width="350">
     </td>
-    <td align="center">
-      <em>Настройки</em><br><br>
+    <td align="center" style="vertical-align: top; padding: 10px;">
+      <p style="font-weight: bold; font-size: 140%; margin-bottom: 8px;">Настройки</p>
       <img src="screenshots/Settings.png" alt="Настройки AutoKey" width="350">
     </td>
   </tr>
 </table>
 
 ---
+
 ## 🛠️ Установка и Запуск
 
 1.  Перейдите в раздел [**Релизы (Releases)**](https://github.com/RomTeykGG/AutoKeyApp-/releases) этого репозитория.
